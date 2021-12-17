@@ -26,7 +26,7 @@ div.header{
 }
 div.header > img{
     position:absolute;
-    max-height:48px;
+    max-height:56px;
     margin: 4px 0px 26px 40px;
     padding:0px;
 }
@@ -55,7 +55,7 @@ div.scrn{
     font-weight: 400;
 }
 p.pscrn{
-    margin:28px 0px 13px 8%;
+    margin:28px 0px 13px 12%;
     width:300px;
 }
 img.prof{
