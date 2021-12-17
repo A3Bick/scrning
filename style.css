@@ -26,12 +26,11 @@ div.header{
 }
 div.header > img{
     position:absolute;
-    height:32px;
-    width:32px;
-    margin: 16px 0px 26px 40px;
+    max-height:48px;
+    margin: 4px 0px 26px 40px;
     padding:0px;
 }
-div.header > p{
+/* div.header > p{
     color:white;
     position:absolute;
     left:80px;
@@ -39,7 +38,7 @@ div.header > p{
     font-size:19.2px;
     font-family: 'Cardo', serif;
     letter-spacing: -2px;
-}
+} */
 div.push{
     position: relative;
     top: 0px;
