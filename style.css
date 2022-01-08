@@ -26,8 +26,8 @@ div.header{
 }
 div.header > img{
     position:absolute;
-    max-height:56px;
-    margin: 4px 0px 26px 40px;
+    max-height:54px;
+    margin: 8px 0px 26px 26px;
     padding:0px;
 }
 /* div.header > p{
