@@ -23,6 +23,7 @@ div.header{
     left:0px;
     top:0px;
     background-color:#A51417;
+    z-index:100;
 }
 div.header > img{
     position:absolute;
@@ -49,24 +50,27 @@ div.push{
 div.scrn{
     top: 0px;
     left: 0px;
-    width: 30%;
+    width: 250px;
     height: 44px;
     font-size: 23px;
     font-weight: 400;
 }
 p.pscrn{
     margin:28px 0px 13px 40px;
-    width:300px;
+    width:210px;
 }
-img.prof{
-    float:right;
-    height:44px;
-    margin: 0px;
-    top:0px;
+div.prof{
+    top:-48px;
+    left:300px;
+    width:32px;
+    height:32px;
     position: relative;
 }
+div.prof > img{
+    width:32px;
+}
 div.contain{
-    padding: 20px 0px 0px;
+    padding: 0px 0px 0px;
     width:98%;
     left:0px;
     position: relative;
